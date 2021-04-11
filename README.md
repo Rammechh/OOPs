@@ -29,3 +29,6 @@ Refresh OOPs Concepts Python
     * Parent class is the class being inherited from, also called base class (Super Class).
     * Child class is the class that inherits from another class, also called derived class (Sub Class).
     * Can use super().__ init__() (super().MethodName()) -> to access other methods attributes
+  + Polymorphism
+    * [Operator Overloading](https://www.programiz.com/python-programming/operator-overloading)
+    * Operator Overloading means giving extended meaning beyond their predefined operational meaning. For example operator + is used to add two integers as well as join two strings and merge two lists. It is achievable because ‘+’ operator is overloaded by int class and str class. You might have noticed that the same built-in operator or function shows different behavior for objects of different classes.
