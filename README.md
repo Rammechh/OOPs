@@ -14,8 +14,8 @@ Refresh OOPs Concepts Python
     * When we declare a variable inside a class but outside any method, it is called as class or static variable in python
     * **Instance Variable :** 
     * Instance variables are owned by instances of the class. This means that for each object or instance of a class, the instance variables are different
-  + (Types of Method)[https://www.studytonight.com/post/methods-in-python-instance-class-and-static-method]
-    a) **Instance Method :*
+  + [Types of Method](https://www.studytonight.com/post/methods-in-python-instance-class-and-static-method)
+    a) **Instance Method :**
     * This is a very basic and easy method that we use regularly when we create classes in python. If we want to print an instance variable or instance method we must create an object of that required class.
     b) **Class Method :**
     * The classmethod() method takes only a function as an input parameter and converts that into a class method.
