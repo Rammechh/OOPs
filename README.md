@@ -34,3 +34,9 @@ Refresh OOPs Concepts Python
     * Operator Overloading means giving extended meaning beyond their predefined operational meaning. For example operator + is used to add two integers as well as join two strings and merge two lists. It is achievable because ‘+’ operator is overloaded by int class and str class. You might have noticed that the same built-in operator or function shows different behavior for objects of different classes.
     * Ex: def __ add__(self,other): m1=self.m1 +other.m1, m2 =self.m2+other.m2, return m1
     * Attached Operator_Overloading Example.
+    * **Method Overloading:** -> Not applicable in python, cannot create two method with same name. Instead We can use the arguments to make the same function work differently i.e. as per the arguments.
+    * Can use none Ex: def add(a=None, b=None, c=None): if a!=null and b!=null and c!=null: return a+b+c
+    * Another method is "from multipledispatch import dispatch" @dispatch(int,int)
+    * [Method Overloading](https://www.geeksforgeeks.org/python-method-overloading/)
+    * [**Method Overriding:**](https://www.geeksforgeeks.org/method-overriding-in-python/)
+    * 
